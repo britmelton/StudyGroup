@@ -1,4 +1,4 @@
-﻿namespace Value.Object.Source;
+﻿namespace Tiny.Types.Source;
 
 public abstract class ValueObject
 {

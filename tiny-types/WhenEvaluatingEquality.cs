@@ -1,7 +1,7 @@
-﻿using FluentAssertions;
-using Value.Object.Source;
+using FluentAssertions;
+using Tiny.Types.Source;
 
-namespace Value.Object;
+namespace Tiny.Types;
 
 public class ValueObjectSpec
 {
