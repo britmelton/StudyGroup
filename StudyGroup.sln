@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mocking-product", "mocking-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "start-here", "start-here\start-here.csproj", "{B398A377-C52E-4AF6-9C90-44F1C78B4045}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TinyTypes Demo", "TinyTypes Demo", "{EAAB4BA6-423A-4C0A-8BA1-1E6444992588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "value-object", "value-object\value-object.csproj", "{7E7EEC52-BC9E-4C2F-B596-78D0D5386191}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{B398A377-C52E-4AF6-9C90-44F1C78B4045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B398A377-C52E-4AF6-9C90-44F1C78B4045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B398A377-C52E-4AF6-9C90-44F1C78B4045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7EEC52-BC9E-4C2F-B596-78D0D5386191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7EEC52-BC9E-4C2F-B596-78D0D5386191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7EEC52-BC9E-4C2F-B596-78D0D5386191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7EEC52-BC9E-4C2F-B596-78D0D5386191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +59,7 @@ Global
 		{740D2515-32F1-4211-9E3E-E3F702D51680} = {725C1BDC-65D1-41C2-9ADA-90B484495962}
 		{33705CED-9EF8-4A13-9334-0798A8666150} = {725C1BDC-65D1-41C2-9ADA-90B484495962}
 		{B398A377-C52E-4AF6-9C90-44F1C78B4045} = {725C1BDC-65D1-41C2-9ADA-90B484495962}
+		{7E7EEC52-BC9E-4C2F-B596-78D0D5386191} = {EAAB4BA6-423A-4C0A-8BA1-1E6444992588}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9FFBD41A-EF41-4822-AC10-69D3CBA5E57C}
