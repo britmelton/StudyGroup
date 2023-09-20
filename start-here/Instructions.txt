@@ -1,0 +1,24 @@
+﻿         
+         
+         * Before doing anything run the test explorer to confirm all the tests pass
+         
+         * Then you can choose any project to go into
+         
+         * within each project there are summary comments specific to each test
+         
+         * in the test explorer it is organized by the project test suites
+         * 1. mocking
+         * 2. mocking-problems
+         * 3. TDD
+         * when you want to run only a specific projects tests then you just right click that project name and select run
+         * e.g. I only want to run 'mocking-problems' tests, I go to the test explorer, right click on mocking problems and select run
+         
+         
+         * in mocking-problems there are instructions in the summary comments of 2 of the tests for you to make a change that will show you the proof of the claims being stated
+         * after you make the change, make sure to run the mocking-problems tests (do this each time)
+         * verify for yourself if the change did what the comment said it would
+         * e.g. "comment out line 6" you would go comment it out and then run all the tests in mocking-problems
+         * you will need to go back and undo the change made before continuing to another test, in order to get the correct results
+         
+         
+         * also in mocking-problems I have each test in its own region so you can minimize the tests you are not currently looking at
